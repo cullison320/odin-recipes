@@ -1,0 +1,23 @@
+#title {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipes {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 900px;
+}
+
+#homepage {
+    display: grid;
+    place-items: center;
+}
